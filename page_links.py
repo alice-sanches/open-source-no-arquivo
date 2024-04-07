@@ -5,7 +5,7 @@ import re
 page_links = [] #links para as cópias das páginas arquivadas
 
 #recolher os links para as cópias arquivadas de cada página num array
-with open('page_data.json', 'r') as f:
+with open('api_response.json', 'r') as f:
     json_data = json.load(f)
     for search_term_data in json_data:
         for item in search_term_data['response_items']:
@@ -16,12 +16,18 @@ print("links fetched")
 
 capture_dates_array = []
 original_urls_array = []
+original_urls_array_fixed = []
 
 for link in page_links:
     capture_date_match_object = re.search(r'\b\d{14}\b', link)
     capture_dates_array.append(capture_date_match_object.group())
     original_urls_match_object = re.search(r'/http\S*', link)
     original_urls_array.append(original_urls_match_object.group())
+
+for url in original_urls_array:
+    url_fixed = url.removeprefix('/')
+    original_urls_array_fixed.append(url_fixed)
+
 
 print(capture_dates_array)
 print(original_urls_array)

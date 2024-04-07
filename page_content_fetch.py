@@ -1,4 +1,4 @@
-import json
+'''import json
 import requests
 from bs4 import BeautifulSoup
 
@@ -22,4 +22,4 @@ for page_html in page_extracted_html:
 
 print("html souped")
 
-#next steps: writing important info to json file (links in each page, text - use json custom object encoder)
+#next steps: writing important info to json file (links in each page, text - use json custom object encoder)'''
