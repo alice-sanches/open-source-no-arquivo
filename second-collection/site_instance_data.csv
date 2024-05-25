@@ -1,0 +1,616 @@
+,seed_url,timestamp,collection,title,contentLength
+0,http://unix.no.sapo.pt/,20160605155710,AWP21,302 Found,342
+1,http://unix.no.sapo.pt/,20160210073052,AWP20,Enter,821
+2,http://unix.no.sapo.pt/,20150422061512,AWP17,Enter,823
+3,http://unix.no.sapo.pt/,20140929161117,AWP16,Enter,814
+4,http://unix.no.sapo.pt/,20131106094217,AWP15,Enter,812
+5,http://unix.no.sapo.pt/,20100602065709,AWP7,Enter,823
+6,http://unix.no.sapo.pt/,20091217222526,AWP6,Enter,828
+7,http://unix.no.sapo.pt/,20090925043256,AWP5,Enter,823
+8,http://unix.no.sapo.pt/,20090525044636,AWP4,Enter,817
+9,http://unix.no.sapo.pt/,20081021141704,AWP3,Enter,816
+10,http://unix.no.sapo.pt/,20080311224544,AWP2,Enter,824
+11,http://unix.no.sapo.pt/,20060217072247,Tomba,http://unix.no.sapo.pt/,543
+12,http://unix.no.sapo.pt:80/,20051023192149,IA,http://unix.no.sapo.pt:80/,752
+13,http://unix.no.sapo.pt:80/,20051022144849,IA,http://unix.no.sapo.pt:80/,754
+14,http://unix.no.sapo.pt:80/,20050903164105,IA,http://unix.no.sapo.pt:80/,754
+15,http://unix.no.sapo.pt/,20050721045851,Tomba,http://unix.no.sapo.pt/,543
+16,http://unix.no.sapo.pt/,20050616101404,Tomba,http://unix.no.sapo.pt/,543
+17,http://unix.no.sapo.pt/,20050523235659,Tomba,Enter,543
+18,http://unix.no.sapo.pt:80/,20050409065355,IA,http://unix.no.sapo.pt:80/,748
+19,http://unix.no.sapo.pt/,20050324093012,Tomba,http://unix.no.sapo.pt/,544
+20,http://unix.no.sapo.pt:80/,20050311182409,IA,http://unix.no.sapo.pt:80/,676
+21,http://unix.no.sapo.pt:80/,20050122042812,IA,http://unix.no.sapo.pt:80/,677
+22,http://unix.no.sapo.pt:80/,20040929052109,IA,http://unix.no.sapo.pt:80/,674
+23,http://unix.no.sapo.pt:80/,20040829205821,IA,http://unix.no.sapo.pt:80/,678
+24,http://unix.no.sapo.pt:80/,20040828222644,IA,http://unix.no.sapo.pt:80/,678
+25,http://www.pcguia.xl.pt/linux.shtml,20110522123118,AWP10,http://www.pcguia.xl.pt/linux.shtml,392
+26,http://www.pcguia.xl.pt/linux.shtml,20110123021721,FAWP4,,325
+27,http://www.pcguia.xl.pt/linux.shtml,20110103020745,FAWP4,,325
+28,http://www.pcguia.xl.pt/linux.shtml,20101121003841,FAWP3,,325
+29,http://www.pcguia.xl.pt/linux.shtml,20101001225357,FAWP3,http://www.pcguia.xl.pt/linux.shtml,329
+30,http://www.pcguia.xl.pt/linux.shtml,20101001000829,FAWP3,,297
+31,http://www.pcguia.xl.pt/linux.shtml,20100925223106,FAWP3,,328
+32,http://www.pcguia.xl.pt/linux.shtml,20100817213630,FAWP2,,328
+33,http://www.pcguia.xl.pt/linux.shtml,20100806023549,AWP8,,329
+34,http://www.pcguia.xl.pt/linux.shtml,20100722185227,FAWP2,,329
+35,http://www.pcguia.xl.pt/linux.shtml,20100721201648,FAWP2,,298
+36,http://www.pcguia.xl.pt/linux.shtml,20100720194631,FAWP2,,330
+37,http://www.pcguia.xl.pt/linux.shtml,20100707151923,FAWP2,PCGuia,13738
+38,http://www.pcguia.xl.pt/linux.shtml,20100706152734,FAWP1,PCGuia,13738
+39,http://www.pcguia.xl.pt/linux.shtml,20100705154851,FAWP1,PCGuia,13734
+40,http://www.pcguia.xl.pt/linux.shtml,20100704155138,FAWP1,PCGuia,13737
+41,http://www.pcguia.xl.pt/linux.shtml,20100702150928,FAWP1,PCGuia,13738
+42,http://www.pcguia.xl.pt/linux.shtml,20100701151017,FAWP1,PCGuia,13735
+43,http://www.pcguia.xl.pt/linux.shtml,20100630151537,FAWP1,PCGuia,13729
+44,http://www.pcguia.xl.pt/linux.shtml,20100629152703,FAWP1,PCGuia,13730
+45,http://www.pcguia.xl.pt/linux.shtml,20100628153517,FAWP1,PCGuia,13726
+46,http://www.pcguia.xl.pt/linux.shtml,20100627150207,FAWP1,PCGuia,13729
+47,http://www.pcguia.xl.pt/linux.shtml,20100626151122,FAWP1,PCGuia,13728
+48,http://www.pcguia.xl.pt/linux.shtml,20100625143007,FAWP1,PCGuia,13729
+49,http://www.pcguia.xl.pt/linux.shtml,20100624144257,FAWP1,PCGuia,13730
+50,http://opensource.ccems.pt/,20160607023324,AWP21,Página não encontrada,566
+51,http://opensource.ccems.pt/,20160211102815,AWP20,http://opensource.ccems.pt/,206
+52,http://opensource.ccems.pt/,20150909035932,AWP18,http://opensource.ccems.pt/,206
+53,http://opensource.ccems.pt/,20150419065043,AWP17,Página não encontrada,564
+54,http://opensource.ccems.pt/,20140927233158,AWP16,Página não encontrada,565
+55,http://opensource.ccems.pt/,20131106025155,AWP15,Página não encontrada,563
+56,http://opensource.ccems.pt/,20120121100328,AWP12,Escolas Moodle em Actualização,701
+57,http://opensource.ccems.pt/,20110121065444,AWP9,SoftwareLivre@CCEMS - Offline,880
+58,http://opensource.ccems.pt/,20100805033415,AWP8,OpenSource@CCEMS - Home,8832
+59,http://opensource.ccems.pt/,20100601032922,AWP7,OpenSource@CCEMS - Home,8833
+60,http://opensource.ccems.pt/,20091217204332,AWP6,OpenSource@CCEMS - Home,8828
+61,http://opensource.ccems.pt/,20090925005720,AWP5,OpenSource@CCEMS - Home,8833
+62,http://opensource.ccems.pt/,20090523081127,AWP4,OpenSource@CCEMS - Home,8830
+63,http://opensource.ccems.pt/,20081021123540,AWP3,OpenSource@CCEMS - Home,10056
+64,http://opensource.ccems.pt/,20080311204349,AWP2,OpenSource@CCEMS - Home,10080
+65,http://opensource.ccems.pt/,20080215133347,AWP1,OpenSource@CCEMS - Home,10070
+66,http://opensource.ccems.pt:80/,20080129211249,IA,http://opensource.ccems.pt:80/,10066
+67,http://opensource.ccems.pt:80/,20071230020406,IA,http://opensource.ccems.pt:80/,10072
+68,http://opensource.ccems.pt:80/,20071129013754,IA,http://opensource.ccems.pt:80/,9922
+69,http://opensource.ccems.pt:80/,20071029120320,IA,http://opensource.ccems.pt:80/,9859
+70,http://opensource.ccems.pt:80/,20071013160433,IA,http://opensource.ccems.pt:80/,9863
+71,http://opensource.ccems.pt/,20070928021121,IA,OpenSource@CCEMS - Home,9856
+72,http://opensource.ccems.pt:80/,20070903152637,IA,http://opensource.ccems.pt:80/,9611
+73,http://opensource.ccems.pt/,20070626151216,IA,OpenSource@CCEMS - Home,9596
+74,http://opensource.ccems.pt:80/,20070514181828,IA,http://opensource.ccems.pt:80/,9554
+75,http://www.programaslivres.net/,20230204033507,AWP43,http://www.programaslivres.net/,492
+76,http://www.programaslivres.net/,20221025115320,AWP42,http://www.programaslivres.net/,767
+77,http://www.programaslivres.net/,20220816212114,AWP41,http://www.programaslivres.net/,428
+78,http://programaslivres.net/,20220420190904,AWP40,http://programaslivres.net/,452
+79,http://programaslivres.net/,20220122181807,AWP39,http://programaslivres.net/,428
+80,http://programaslivres.net/,20210627051101,AWP37,http://programaslivres.net/,514
+81,http://www.programaslivres.net/,20210627050147,AWP37,http://www.programaslivres.net/,2883
+82,http://www.programaslivres.net/,20200605044613,AWP33,おいしいグルメを母の日に,2892
+83,http://www.programaslivres.net/,20200415052224,AWP32,おいしいグルメを母の日に,2891
+84,http://programaslivres.net/,20190908035254,AWP30,http://programaslivres.net/,529
+85,http://programaslivres.net/,20190426025858,AWP29,http://programaslivres.net/,528
+86,http://www.programaslivres.net/,20190425235417,AWP29,http://www.programaslivres.net/,2886
+87,http://www.programaslivres.net/,20190319215934,AWP29,おいしいグルメを母の日に,2882
+88,http://www.programaslivres.net/,20181111015725,AWP28,おいしいグルメを母の日に,2885
+89,http://www.programaslivres.net/,20181028030655,AWP28,http://www.programaslivres.net/,2891
+90,http://www.programaslivres.net/,20181019133609,AWP28,http://www.programaslivres.net/,2889
+91,http://www.programaslivres.net/,20180712084234,AWP27,おいしいグルメを母の日に,2889
+92,http://www.programaslivres.net/,20180407160254,AWP26,http://www.programaslivres.net/,2716
+93,http://www.programaslivres.net/,20180406142706,AWP26,おいしいグルメを母の日に,2715
+94,http://www.programaslivres.net/,20170209164954,AWP23,おいしいグルメを母の日に,2715
+95,http://www.programaslivres.net/,20160204174525,AWP20,おいしいグルメを母の日に,2714
+96,http://www.programaslivres.net/,20150408125452,AWP17,おいしいグルメを母の日に,2724
+97,http://www.programaslivres.net/,20140905212645,AWP16,おいしいグルメを母の日に,2725
+98,http://www.programaslivres.net/,20131106002104,AWP15,おいしいグルメを母の日に,2621
+99,http://www.programaslivres.net/,20110122021202,AWP9,http://www.programaslivres.net/,2175
+100,http://esaof.edu.pt/blog/pcurgencias/,20161110203459,AWP22,http://esaof.edu.pt/blog/pcurgencias/,386
+101,http://esaof.edu.pt/blog/pcurgencias/,20160215034138,AWP20,http://esaof.edu.pt/blog/pcurgencias/,387
+102,http://esaof.edu.pt/blog/pcurgencias/,20150427183909,AWP17,http://esaof.edu.pt/blog/pcurgencias/,386
+103,http://esaof.edu.pt/blog/pcurgencias/,20141003021030,AWP16,http://esaof.edu.pt/blog/pcurgencias/,384
+104,http://esaof.edu.pt/blog/pcurgencias/,20131108111701,AWP15,http://esaof.edu.pt/blog/pcurgencias/,401
+105,http://esaof.edu.pt/blog/pcurgencias/,20120128201313,AWP12,Clínica PC,11948
+106,http://esaof.edu.pt/blog/pcurgencias/,20110707080557,AWP11,Clínica PC,11943
+107,http://esaof.edu.pt/blog/pcurgencias/,20110520075527,AWP10,Clínica PC,11952
+108,http://esaof.edu.pt/blog/pcurgencias/,20110124193726,AWP9,Clínica PC,11951
+109,http://esaof.edu.pt/blog/pcurgencias/,20100805105836,AWP8,Clínica PC,11955
+110,http://esaof.edu.pt/blog/pcurgencias,20100618231159,AWP7,,335
+111,http://esaof.edu.pt/blog/pcurgencias/,20100618223323,AWP7,Clínica PC,11949
+112,http://esaof.edu.pt/blog/pcurgencias/,20091217174755,AWP6,Clínica PC,11977
+113,http://esaof.edu.pt/blog/pcurgencias,20091217174743,AWP6,,337
+114,http://esaof.edu.pt/blog/pcurgencias,20090924234649,AWP5,,335
+115,http://esaof.edu.pt/blog/pcurgencias/,20090924231650,AWP5,Clínica PC,11871
+116,http://esaof.edu.pt/blog/pcurgencias,20081030223252,AWP3,,335
+117,http://esaof.edu.pt/blog/pcurgencias/,20081030222000,AWP3,PC Urgências,13217
+118,http://softlivre.crie.min-edu.pt/,20170222183044,AWP23,http://softlivre.crie.min-edu.pt/,404
+119,http://softlivre.crie.min-edu.pt/,20160209211052,AWP20,http://softlivre.crie.min-edu.pt/,404
+120,http://softlivre.crie.min-edu.pt/,20151122203951,AWP19,Softlivre - ME | DGIDC | ERTE / PTE - Início,5221
+121,http://softlivre.crie.min-edu.pt/,20150910150710,AWP18,http://softlivre.crie.min-edu.pt/,5219
+122,http://softlivre.crie.min-edu.pt/,20150421130447,AWP17,Softlivre - ME | DGIDC | ERTE / PTE - Início,5220
+123,http://softlivre.crie.min-edu.pt/,20140929064644,AWP16,Softlivre - ME | DGIDC | ERTE / PTE - Início,5218
+124,http://softlivre.crie.min-edu.pt/,20131106084317,AWP15,Softlivre - ME | DGIDC | ERTE / PTE - Início,5223
+125,http://softlivre.crie.min-edu.pt/,20120121145132,AWP12,Softlivre - ME | DGIDC | ERTE / PTE - Início,5887
+126,http://softlivre.crie.min-edu.pt/,20110701133141,AWP11,Softlivre - ME | DGIDC | ERTE / PTE - Início,5903
+127,http://softlivre.crie.min-edu.pt/,20110520194049,AWP10,Softlivre - ME | DGIDC | ERTE / PTE - Início,5891
+128,http://softlivre.crie.min-edu.pt/,20110121103442,AWP9,Softlivre - ME | DGIDC | ERTE / PTE - Início,5910
+129,http://softlivre.crie.min-edu.pt/,20100805002034,AWP8,Softlivre - ME | DGIDC | ERTE / PTE - Início,6585
+130,http://softlivre.crie.min-edu.pt/,20100602025233,AWP7,Softlivre - ME | DGIDC | ERTE / PTE - Início,6584
+131,http://softlivre.crie.min-edu.pt/,20091217220101,AWP6,Softlivre - ME | DGIDC | ERTE / PTE - Início,6606
+132,http://softlivre.crie.min-edu.pt/,20090925032109,AWP5,Softlivre - ME | DGIDC | ERTE / PTE - Início,6454
+133,http://softlivre.crie.min-edu.pt/,20090524154622,AWP4,Softlivre - ME | DGIDC | ERTE / PTE - Início,6463
+134,http://softlivre.crie.min-edu.pt/,20081021134755,AWP3,Softlivre - ME | DGIDC | ERTE / PTE - Início,6257
+135,http://www.escolaslivres.org/,20230203095051,AWP43,http://www.escolaslivres.org/,417
+136,http://www.escolaslivres.org/,20220813220421,AWP41,http://www.escolaslivres.org/,417
+137,http://www.escolaslivres.org/,20220503043407,AWP40,http://www.escolaslivres.org/,417
+138,http://escolaslivres.org/,20220412181519,AWP40,http://escolaslivres.org/,415
+139,http://www.escolaslivres.org/,20220202121120,AWP39,http://www.escolaslivres.org/,416
+140,http://escolaslivres.org/,20220120173149,AWP39,http://escolaslivres.org/,414
+141,http://www.escolaslivres.org/,20210308100758,AWP36,http://www.escolaslivres.org/,417
+142,http://www.escolaslivres.org/,20210301212553,AWP36,http://www.escolaslivres.org/,417
+143,https://escolaslivres.org/,20210301162509,AWP36,https://escolaslivres.org/,349
+144,http://www.escolaslivres.org/,20210116034158,EAWP36,http://www.escolaslivres.org/,417
+145,http://www.escolaslivres.org/,20200908194528,AWP34,http://www.escolaslivres.org/,419
+146,http://www.escolaslivres.org/,20200901202129,AWP34,http://www.escolaslivres.org/,417
+147,https://escolaslivres.org/,20200901161439,AWP34,https://escolaslivres.org/,350
+148,http://www.escolaslivres.org/,20200610144347,AWP33,"Metro4D Bandar Togel Online 100% Aman,Terbaik Dan Terpercaya",9824
+149,http://escolaslivres.org/,20200602011106,AWP33,http://escolaslivres.org/,563
+150,https://escolaslivres.org/,20200602011040,AWP33,Relarone composiÃ§Ã£o fÃ³rmula ativada - MATÃRIA COMPLETA,4374
+151,http://www.escolaslivres.org/,20200601111043,AWP33,http://www.escolaslivres.org/,568
+152,https://escolaslivres.org/,20200331065002,AWP32,Relarone composiÃ§Ã£o fÃ³rmula ativada - MATÃRIA COMPLETA,4158
+153,https://escolaslivres.org/,20200322225201,AWP32,https://escolaslivres.org/,4156
+154,http://www.escolaslivres.org/,20200312073833,AWP32,http://www.escolaslivres.org/,570
+155,https://escolaslivres.org/,20200105061702,AWP31,Relarone composiÃ§Ã£o fÃ³rmula ativada - MATÃRIA COMPLETA,3753
+156,http://www.escolaslivres.org/,20191210165102,AWP31,http://www.escolaslivres.org/,602
+157,https://escolaslivres.org/,20191204024536,EAWP28,Relarone composição fórmula ativada - MATÉRIA COMPLETA,3614
+158,https://escolaslivres.org/,20191004175809,AWP30,Relarone composição fórmula ativada - MATÉRIA COMPLETA,3614
+159,http://www.escolaslivres.org/,20190919194249,AWP30,http://www.escolaslivres.org/,432
+160,http://blog.softwarelivre.sapo.pt/,20150825224634,AWP18,Software Livre no SAPO,22935
+161,http://blog.softwarelivre.sapo.pt/,20150822202639,AWP18,http://blog.softwarelivre.sapo.pt/,22612
+162,http://blog.softwarelivre.sapo.pt/,20150425210459,AWP17,Software Livre no SAPO,23089
+163,http://blog.softwarelivre.sapo.pt/,20141001020514,AWP16,Software Livre no SAPO,22989
+164,http://blog.softwarelivre.sapo.pt/,20120120185912,AWP12,Software Livre no SAPO,21518
+165,http://blog.softwarelivre.sapo.pt/,20110630173657,AWP11,Software Livre no SAPO,20049
+166,http://blog.softwarelivre.sapo.pt/,20110520032135,AWP10,Software Livre no SAPO,20350
+167,http://blog.softwarelivre.sapo.pt/,20110120190851,AWP9,Software Livre no SAPO,20249
+168,http://blog.softwarelivre.sapo.pt/,20100805164934,AWP8,Software Livre no SAPO,20685
+169,http://blog.softwarelivre.sapo.pt/,20100531163453,AWP7,Software Livre no SAPO,20202
+170,http://blog.softwarelivre.sapo.pt/,20091217170835,AWP6,Software Livre no SAPO,18302
+171,http://blog.softwarelivre.sapo.pt/,20090924171903,AWP5,Software Livre no SAPO,18193
+172,http://blog.softwarelivre.sapo.pt/,20090520165409,AWP4,Software Livre no SAPO,19251
+173,http://blog.softwarelivre.sapo.pt/,20081021102930,AWP3,Software Livre no SAPO,34709
+174,http://blog.softwarelivre.sapo.pt/,20080311164046,AWP2,Software Livre no SAPO,16244
+175,http://blog.softwarelivre.sapo.pt/,20080215031726,AWP1,Software Livre no SAPO,10258
+176,http://blog.softwarelivre.sapo.pt:80/,20080213005956,IA,http://blog.softwarelivre.sapo.pt:80/,10493
+177,http://blog.softwarelivre.sapo.pt:80/,20071213133748,IA,http://blog.softwarelivre.sapo.pt:80/,16659
+178,http://blog.softwarelivre.sapo.pt:80/?,20071020101147,IA,http://blog.softwarelivre.sapo.pt:80/?,17683
+179,http://blog.softwarelivre.sapo.pt:80/,20071011023927,IA,http://blog.softwarelivre.sapo.pt:80/,16006
+180,http://blog.softwarelivre.sapo.pt:80/,20071011005052,IA,http://blog.softwarelivre.sapo.pt:80/,16006
+181,http://blog.softwarelivre.sapo.pt:80/,20071010013258,IA,http://blog.softwarelivre.sapo.pt:80/,15854
+182,http://blog.softwarelivre.sapo.pt:80/?,20071009045043,IA,http://blog.softwarelivre.sapo.pt:80/?,15860
+183,http://blog.softwarelivre.sapo.pt:80/,20071008124327,IA,http://blog.softwarelivre.sapo.pt:80/,15853
+184,http://blog.softwarelivre.sapo.pt:80/,20071007082122,IA,http://blog.softwarelivre.sapo.pt:80/,15852
+185,http://a-informacao.blogspot.pt/,20220825224404,AWP41,http://a-informacao.blogspot.pt/,619
+186,http://a-informacao.blogspot.pt/,20220515180210,AWP40,http://a-informacao.blogspot.pt/,620
+187,http://a-informacao.blogspot.pt/,20220211111013,AWP39,http://a-informacao.blogspot.pt/,618
+188,http://a-informacao.blogspot.pt/,20211110151346,AWP38,http://a-informacao.blogspot.pt/,618
+189,http://a-informacao.blogspot.pt/,20210118090338,EAWP36,http://a-informacao.blogspot.pt/,619
+190,http://a-informacao.blogspot.pt/,20201005041219,AWP34,http://a-informacao.blogspot.pt/,617
+191,http://a-informacao.blogspot.pt/,20200619125719,AWP33,http://a-informacao.blogspot.pt/,617
+192,http://a-informacao.blogspot.pt/,20200323154954,AWP32,http://a-informacao.blogspot.pt/,616
+193,http://a-informacao.blogspot.pt/,20200303160213,AWP32,http://a-informacao.blogspot.pt/,618
+194,http://a-informacao.blogspot.pt/,20191206155001,AWP31,http://a-informacao.blogspot.pt/,588
+195,http://a-informacao.blogspot.pt/,20190829174632,AWP30,http://a-informacao.blogspot.pt/,585
+196,http://a-informacao.blogspot.pt/,20190318192935,AWP29,http://a-informacao.blogspot.pt/,587
+197,http://a-informacao.blogspot.pt/,20181025133639,AWP28,http://a-informacao.blogspot.pt/,588
+198,http://a-informacao.blogspot.pt/,20181023102246,AWP28,http://a-informacao.blogspot.pt/,587
+199,http://a-informacao.blogspot.pt/,20181019091855,AWP28,http://a-informacao.blogspot.pt/,585
+200,http://a-informacao.blogspot.pt/,20181011132617,AWP28,http://a-informacao.blogspot.pt/,587
+201,http://a-informacao.blogspot.pt/,20180716154501,AWP27,http://a-informacao.blogspot.pt/,588
+202,http://a-informacao.blogspot.pt/,20180409131746,AWP26,http://a-informacao.blogspot.pt/,53465
+203,http://a-informacao.blogspot.pt/,20180407192242,AWP26,A Informação,53466
+204,http://a-informacao.blogspot.pt/,20171207123852,AWP25,A Informação,53509
+205,http://a-informacao.blogspot.pt/,20170731135944,AWP24,A Informação,53469
+206,http://a-informacao.blogspot.pt/,20170217140244,AWP23,A Informação,53799
+207,http://a-informacao.blogspot.pt/,20170214123714,AWP23,http://a-informacao.blogspot.pt/,53798
+208,http://a-informacao.blogspot.pt/,20161031123212,AWP22,A Informação,53750
+209,http://a-informacao.blogspot.pt/,20160530111743,AWP21,A Informação,55737
+210,http://www.blogdovicente.com/,20230129090628,AWP43,http://www.blogdovicente.com/,374
+211,http://www.blogdovicente.com/,20220810164314,AWP41,http://www.blogdovicente.com/,373
+212,http://www.blogdovicente.com/,20220429172700,AWP40,http://www.blogdovicente.com/,377
+213,http://www.blogdovicente.com/,20220130074547,AWP39,http://www.blogdovicente.com/,373
+214,http://www.blogdovicente.com/,20210320212458,AWP36,http://www.blogdovicente.com/,528
+215,http://www.blogdovicente.com/,20200918062117,AWP34,http://www.blogdovicente.com/,526
+216,http://www.blogdovicente.com/,20200621094629,AWP33,FCCN DNS FW,1679
+217,http://blogdovicente.com/,20200601233211,AWP33,http://blogdovicente.com/,527
+218,http://www.blogdovicente.com/,20200321163929,AWP32,http://www.blogdovicente.com/,424
+219,http://blogdovicente.com/,20191224115726,AWP31,http://blogdovicente.com/,454
+220,http://blogdovicente.com/,20191017142554,AWP30,http://blogdovicente.com/,452
+221,http://www.blogdovicente.com/,20190925002540,AWP30,http://www.blogdovicente.com/,454
+222,http://www.blogdovicente.com/,20190319121725,AWP29,http://www.blogdovicente.com/,396
+223,http://blogdovicente.com/,20190318152148,AWP29,http://blogdovicente.com/,451
+224,http://www.blogdovicente.com/,20181101190849,AWP28,http://www.blogdovicente.com/,408
+225,http://blogdovicente.com/,20181101113110,AWP28,http://blogdovicente.com/,467
+226,http://www.blogdovicente.com/,20181014203149,AWP28,http://www.blogdovicente.com/,409
+227,http://blogdovicente.com/,20181014123058,AWP28,http://blogdovicente.com/,466
+228,http://www.blogdovicente.com/,20180712023901,AWP27,http://www.blogdovicente.com/,410
+229,http://blogdovicente.com/,20180711094853,AWP27,http://blogdovicente.com/,467
+230,http://www.blogdovicente.com/,20180406131652,AWP26,http://www.blogdovicente.com/,246
+231,http://blogdovicente.com/,20180406131335,AWP26,http://blogdovicente.com/,305
+232,http://www.blogdovicente.com/,20170209145413,AWP23,,247
+233,http://blogdovicente.com/,20170209144931,AWP23,,294
+234,http://www.blogdovicente.com/,20160620114935,AWP21,,248
+235,https://blog.rcgoncalves.pt/,20191213115654,AWP31,Yet Another Blog,19642
+236,https://blog.rcgoncalves.pt/,20190921104939,AWP30,Yet Another Blog,19685
+237,https://blog.rcgoncalves.pt/,20190914090453,AWP30,https://blog.rcgoncalves.pt/,19685
+238,https://blog.rcgoncalves.pt/,20190418091810,AWP29,Yet Another Blog,20632
+239,http://blog.rcgoncalves.pt/,20190418091806,AWP29,http://blog.rcgoncalves.pt/,531
+240,https://blog.rcgoncalves.pt/,20181105024031,AWP28,Yet Another Blog,20562
+241,http://blog.rcgoncalves.pt/,20181105024027,AWP28,http://blog.rcgoncalves.pt/,539
+242,https://blog.rcgoncalves.pt/,20180721165902,AWP27,Yet Another Blog,20560
+243,http://blog.rcgoncalves.pt/,20180721165858,AWP27,http://blog.rcgoncalves.pt/,541
+244,http://blog.rcgoncalves.pt/,20171208045115,AWP25,301 Moved Permanently,377
+245,http://blog.rcgoncalves.pt/,20170801064605,AWP24,Yet Another Blog,21368
+246,http://blog.rcgoncalves.pt/,20170217193217,AWP23,Yet Another Blog,21351
+247,http://blog.rcgoncalves.pt/,20170214224740,AWP23,http://blog.rcgoncalves.pt/,21354
+248,http://blog.rcgoncalves.pt/,20161101054313,AWP22,Yet Another Blog,21697
+249,http://blog.rcgoncalves.pt/,20160531081933,AWP21,Yet Another Blog,21972
+250,http://blog.rcgoncalves.pt/,20160206001054,AWP20,Yet Another Blog,21856
+251,http://blog.rcgoncalves.pt/,20150825224623,AWP18,http://blog.rcgoncalves.pt/,21858
+252,http://blog.rcgoncalves.pt/,20150412204435,AWP17,Yet Another Blog,21485
+253,http://blog.rcgoncalves.pt/,20140924160253,AWP16,Yet Another Blog,21494
+254,http://blog.rcgoncalves.pt/,20131110104059,AWP15,Yet Another Blog,19743
+255,http://agulha.camorim.eu/,20150410124314,AWP17,Agulha no Palheiro - Apontamentos do Mundo da Informação,5395
+256,http://agulha.camorim.eu/,20141121121539,EAWP6,Agulha no Palheiro - Apontamentos do Mundo da Informação,5394
+257,http://agulha.camorim.eu/,20140907054005,AWP16,Agulha no Palheiro - Apontamentos do Mundo da Informação,5397
+258,http://agulha.camorim.eu/,20131107073311,AWP15,Agulha no Palheiro - Apontamentos do Mundo da Informação,5394
+259,http://agulha.camorim.eu/,20110523133357,AWP10,Agulha no Palheiro - Apontamentos do Mundo da Informação,5395
+260,http://agulha.camorim.eu/,20110123061816,AWP9,Agulha no Palheiro - Apontamentos do Mundo da Informação,6863
+261,http://agulha.camorim.eu/,20100805230454,AWP8,Agulha no Palheiro - Apontamentos do Mundo da Informação,5110
+262,http://administracao-softwarelivre.blogspot.pt/,20200619110600,AWP33,http://administracao-softwarelivre.blogspot.pt/,629
+263,http://administracao-softwarelivre.blogspot.pt/,20200323151219,AWP32,http://administracao-softwarelivre.blogspot.pt/,627
+264,http://administracao-softwarelivre.blogspot.pt/,20200303131918,AWP32,http://administracao-softwarelivre.blogspot.pt/,628
+265,http://administracao-softwarelivre.blogspot.pt/,20191206115847,AWP31,http://administracao-softwarelivre.blogspot.pt/,596
+266,http://administracao-softwarelivre.blogspot.pt/,20190829145855,AWP30,http://administracao-softwarelivre.blogspot.pt/,596
+267,http://administracao-softwarelivre.blogspot.pt/,20190318162803,AWP29,http://administracao-softwarelivre.blogspot.pt/,596
+268,http://administracao-softwarelivre.blogspot.pt/,20181025131948,AWP28,http://administracao-softwarelivre.blogspot.pt/,593
+269,http://administracao-softwarelivre.blogspot.pt/,20181023100533,AWP28,http://administracao-softwarelivre.blogspot.pt/,595
+270,http://administracao-softwarelivre.blogspot.pt/,20181019091539,AWP28,http://administracao-softwarelivre.blogspot.pt/,595
+271,http://administracao-softwarelivre.blogspot.pt/,20181011131426,AWP28,http://administracao-softwarelivre.blogspot.pt/,596
+272,http://administracao-softwarelivre.blogspot.pt/,20180716143000,AWP27,http://administracao-softwarelivre.blogspot.pt/,596
+273,http://administracao-softwarelivre.blogspot.pt/,20180409131731,AWP26,Software livre,8776
+274,http://administracao-softwarelivre.blogspot.pt/,20171207123654,AWP25,Software livre,8817
+275,http://administracao-softwarelivre.blogspot.pt/,20170731135854,AWP24,Software livre,8786
+276,http://administracao-softwarelivre.blogspot.pt/,20170217140142,AWP23,Software livre,9208
+277,http://administracao-softwarelivre.blogspot.pt/,20170214123138,AWP23,http://administracao-softwarelivre.blogspot.pt/,9207
+278,http://administracao-softwarelivre.blogspot.pt/,20161031120212,AWP22,Software livre,9167
+279,http://administracao-softwarelivre.blogspot.pt/,20160530105426,AWP21,Software livre,11046
+280,http://administracao-softwarelivre.blogspot.pt/,20160205103700,AWP20,Software livre,10768
+281,http://administracao-softwarelivre.blogspot.pt/,20151116104601,AWP19,Software livre,10060
+282,http://administracao-softwarelivre.blogspot.pt/,20150825164405,AWP18,http://administracao-softwarelivre.blogspot.pt/,10124
+283,http://administracao-softwarelivre.blogspot.pt/,20150520214743,AWP17,Software livre,9720
+284,http://openlab.esev.ipv.pt/,20190903113326,AWP30,OpenLab ESEV,1506
+285,http://openlab.esev.ipv.pt/,20190321162904,AWP29,OpenLab ESEV,1504
+286,http://openlab.esev.ipv.pt/,20181026043724,AWP28,OpenLab ESEV,1504
+287,http://openlab.esev.ipv.pt/,20181012194915,AWP28,http://openlab.esev.ipv.pt/,1508
+288,http://openlab.esev.ipv.pt/,20180718082939,AWP27,OpenLab ESEV,1507
+289,http://openlab.esev.ipv.pt/,20180412002648,AWP26,OpenLab ESEV,1343
+290,http://openlab.esev.ipv.pt/,20171211035131,AWP25,OpenLab ESEV | Projeto de Software Livre da ESEV,6508
+291,http://openlab.esev.ipv.pt/,20170804115059,AWP24,OpenLab ESEV | Projeto de Software Livre da ESEV,6547
+292,http://openlab.esev.ipv.pt/,20170220052225,AWP23,OpenLab ESEV | Projeto de Software Livre da ESEV,6517
+293,http://openlab.esev.ipv.pt/,20161104060016,AWP22,OpenLab ESEV | Projeto de Software Livre da ESEV,6723
+294,http://openlab.esev.ipv.pt/,20160603230312,AWP21,OpenLab ESEV | Projeto de Software Livre da ESEV,6769
+295,http://openlab.esev.ipv.pt/,20160208221603,AWP20,OpenLab ESEV | Projeto de Software Livre da ESEV,6733
+296,http://openlab.esev.ipv.pt/,20151121113002,AWP19,OpenLab ESEV | Projeto de Software Livre da ESEV,6732
+297,http://openlab.esev.ipv.pt/,20150918153217,AWP18,OpenLab ESEV | Projecto de Software Livre da ESEV,7799
+298,http://openlab.esev.ipv.pt/,20150419065006,AWP17,http://openlab.esev.ipv.pt/,7808
+299,http://openlab.esev.ipv.pt/,20140927233200,AWP16,OpenLab ESEV | Projecto de Software Livre da ESEV,7804
+300,http://openlab.esev.ipv.pt/,20131108053905,AWP15,OpenLab ESEV | Projecto de Software Livre da ESEV,9767
+301,http://portal.ipt.pt/portal/portal/posgradslap,20191115135741,EAWP28,http://portal.ipt.pt/portal/portal/posgradslap,514
+302,http://portal.ipt.pt/portal/portal/posgradSLAP,20150420043401,AWP17,Object moved,351
+303,http://portal.ipt.pt/portal/portal/posgradSLAP,20140928111954,AWP16,IPT - Instituto Politécnico de Tomar,4220
+304,http://portal.ipt.pt/portal/portal/posgradSLAP,20131106042849,AWP15,IPT - Instituto Politécnico de Tomar,4203
+305,http://portal.ipt.pt/portal/portal/posgradSLAP,20120125225321,AWP12,IPT - Instituto Politécnico de Tomar,4116
+306,http://portal.ipt.pt/portal/portal/posgradSLAP,20110701101751,AWP11,IPT - Instituto Politécnico de Tomar,4122
+307,http://portal.ipt.pt/portal/portal/posgradSLAP,20110526165254,AWP10,IPT - Instituto Politécnico de Tomar,4157
+308,http://portal.ipt.pt/portal/portal/posgradSLAP,20100805022911,AWP8,IPT - Instituto Politécnico de Tomar,4099
+309,http://portal.ipt.pt/portal/portal/posgradSLAP,20100601180338,AWP7,IPT - Instituto Politécnico de Tomar,4027
+310,http://moss.dcti.iscte.pt/,20230121102901,AWP43,http://moss.dcti.iscte.pt/,402
+311,http://moss.dcti.iscte.pt/,20230121102857,AWP43,http://moss.dcti.iscte.pt/,402
+312,http://moss.dcti.iscte.pt/,20230121102854,AWP43,http://moss.dcti.iscte.pt/,403
+313,http://moss.dcti.iscte.pt/,20230121102846,AWP43,http://moss.dcti.iscte.pt/,403
+314,http://moss.dcti.iscte.pt/,20230121102843,AWP43,http://moss.dcti.iscte.pt/,402
+315,http://moss.dcti.iscte.pt/,20220730104246,AWP41,http://moss.dcti.iscte.pt/,403
+316,http://moss.dcti.iscte.pt/,20220416230159,AWP40,http://moss.dcti.iscte.pt/,403
+317,http://moss.dcti.iscte.pt/,20220416230155,AWP40,http://moss.dcti.iscte.pt/,402
+318,http://moss.dcti.iscte.pt/,20220416230150,AWP40,http://moss.dcti.iscte.pt/,403
+319,http://moss.dcti.iscte.pt/,20220416230139,AWP40,http://moss.dcti.iscte.pt/,401
+320,http://moss.dcti.iscte.pt/,20220416230132,AWP40,http://moss.dcti.iscte.pt/,402
+321,http://moss.dcti.iscte.pt/,20220122090711,AWP39,http://moss.dcti.iscte.pt/,403
+322,http://moss.dcti.iscte.pt/,20220122090707,AWP39,http://moss.dcti.iscte.pt/,402
+323,http://moss.dcti.iscte.pt/,20220122090702,AWP39,http://moss.dcti.iscte.pt/,403
+324,http://moss.dcti.iscte.pt/,20220122090651,AWP39,http://moss.dcti.iscte.pt/,403
+325,http://moss.dcti.iscte.pt/,20220122090637,AWP39,http://moss.dcti.iscte.pt/,402
+326,http://moss.dcti.iscte.pt/,20210302130744,AWP36,http://moss.dcti.iscte.pt/,403
+327,http://moss.dcti.iscte.pt/,20210302130740,AWP36,http://moss.dcti.iscte.pt/,403
+328,http://moss.dcti.iscte.pt/,20210302130736,AWP36,http://moss.dcti.iscte.pt/,402
+329,http://moss.dcti.iscte.pt/,20210302130727,AWP36,http://moss.dcti.iscte.pt/,403
+330,http://moss.dcti.iscte.pt/,20210302130720,AWP36,http://moss.dcti.iscte.pt/,403
+331,http://moss.dcti.iscte.pt/,20210116085915,EAWP36,http://moss.dcti.iscte.pt/,403
+332,http://moss.dcti.iscte.pt/,20200909060847,AWP34,http://moss.dcti.iscte.pt/,401
+333,http://moss.dcti.iscte.pt/,20200623105035,AWP33,http://moss.dcti.iscte.pt/,403
+334,http://moss.dcti.iscte.pt/,20200623105030,AWP33,http://moss.dcti.iscte.pt/,402
+335,http://www.softwarelivre.gov.pt/,20161106214552,AWP22,Software Livre Portugal - Software Livre na AP,7488
+336,http://softwarelivre.gov.pt/,20161105063714,AWP22,Software Livre Portugal - Software Livre na AP,7491
+337,http://www.softwarelivre.gov.pt/,20160606205344,AWP21,Software Livre Portugal - Software Livre na AP,7488
+338,http://softwarelivre.gov.pt/,20160605035528,AWP21,Software Livre Portugal - Software Livre na AP,7487
+339,http://www.softwarelivre.gov.pt/,20160211053528,AWP20,Software Livre Portugal - Software Livre na AP,7484
+340,http://softwarelivre.gov.pt/,20160209211518,AWP20,Software Livre Portugal - Software Livre na AP,7498
+341,http://www.softwarelivre.gov.pt/,20151125002717,AWP19,Software Livre Portugal - Software Livre na AP,7484
+342,http://softwarelivre.gov.pt/,20151122203952,AWP19,Software Livre Portugal - Software Livre na AP,7489
+343,http://www.softwarelivre.gov.pt/,20150914145128,AWP18,http://www.softwarelivre.gov.pt/,7488
+344,http://softwarelivre.gov.pt/,20150910151457,AWP18,http://softwarelivre.gov.pt/,7499
+345,http://www.softwarelivre.gov.pt/,20150424035616,AWP17,Software Livre Portugal - Software Livre na AP,7484
+346,http://softwarelivre.gov.pt/,20150421130719,AWP17,Software Livre Portugal - Software Livre na AP,7492
+347,http://www.softwarelivre.gov.pt/,20140930203806,AWP16,Software Livre Portugal - Software Livre na AP,7489
+348,http://softwarelivre.gov.pt/,20140929064835,AWP16,Software Livre Portugal - Software Livre na AP,7490
+349,http://www.softwarelivre.gov.pt/,20131107095543,AWP15,Software Livre Portugal - Software Livre na AP,7494
+350,http://softwarelivre.gov.pt/,20131106084317,AWP15,Software Livre Portugal - Software Livre na AP,7499
+351,http://www.softwarelivre.gov.pt/,20120123051711,AWP12,Software Livre Portugal - Software Livre na AP,7487
+352,http://softwarelivre.gov.pt/,20120121145133,AWP12,Software Livre Portugal - Software Livre na AP,7488
+353,http://www.softwarelivre.gov.pt/,20110703032643,AWP11,Software Livre Portugal - Software Livre na AP,7518
+354,http://softwarelivre.gov.pt/,20110701133142,AWP11,Software Livre Portugal - Software Livre na AP,7523
+355,http://www.softwarelivre.gov.pt/,20110621171531,EAWP2,Software Livre Portugal - Software Livre na AP,7486
+356,http://softwarelivre.gov.pt/,20110621171531,EAWP2,Software Livre Portugal - Software Livre na AP,7487
+357,http://www.softwarelivre.gov.pt/,20110522011946,AWP10,Software Livre Portugal - Software Livre na AP,7481
+358,http://softwarelivre.gov.pt/,20110520194051,AWP10,Software Livre Portugal - Software Livre na AP,7486
+359,http://www.softwarelivre.gov.pt/,20110122191641,AWP9,Software Livre Portugal - Software Livre na AP,7520
+360,http://www.tos.ipb.pt/,20150510023213,AWP17,http://www.tos.ipb.pt/,340
+361,http://www.tos.ipb.pt/,20141016003957,AWP16,http://www.tos.ipb.pt/,338
+362,http://www.tos.ipb.pt/,20131107110644,AWP15,.:: TOS - Thinking Open Source ::.,2649
+363,http://www.tos.ipb.pt/,20110122210444,AWP9,.:: TOS - Thinking Open Source ::.,2653
+364,http://www.tos.ipb.pt/,20090625011546,AWP4,.:: TOS - Thinking Open Source ::.,2786
+365,http://www.tos.ipb.pt/,20081022034224,AWP3,.:: TOS - Thinking Open Source ::.,2755
+366,http://www.tos.ipb.pt/,20080314164448,AWP2,.:: TOS - Thinking Open Source ::.,2757
+367,http://www.tos.ipb.pt/,20080215003156,AWP1,.:: TOS - Thinking Open Source ::.,2756
+368,http://www.tos.ipb.pt:80/,20070814034146,IA,http://www.tos.ipb.pt:80/,2762
+369,http://www.tos.ipb.pt:80/,20070608224302,IA,http://www.tos.ipb.pt:80/,2758
+370,http://www.tos.ipb.pt:80/,20070101040502,IA,http://www.tos.ipb.pt:80/,2760
+371,http://www.tos.ipb.pt:80/,20061005061152,IA,http://www.tos.ipb.pt:80/,2758
+372,http://www.tos.ipb.pt:80/,20060822054206,IA,http://www.tos.ipb.pt:80/,2761
+373,http://www.tos.ipb.pt:80/,20060615162536,IA,http://www.tos.ipb.pt:80/,2761
+374,http://www.tos.ipb.pt/,20060218195019,Tomba,.:: TOS - Thinking Open Source ::.,2485
+375,http://www.tos.ipb.pt:80/,20051222061812,IA,http://www.tos.ipb.pt:80/,2766
+376,http://www.tos.ipb.pt:80/,20051218201711,IA,http://www.tos.ipb.pt:80/,2767
+377,http://www.tos.ipb.pt:80/,20050825064042,IA,http://www.tos.ipb.pt:80/,2761
+378,http://www.tos.ipb.pt:80/,20050731084603,IA,http://www.tos.ipb.pt:80/,2762
+379,http://www.tos.ipb.pt/,20050719161617,Tomba,http://www.tos.ipb.pt/,2485
+380,http://www.tos.ipb.pt/,20050621171128,Tomba,http://www.tos.ipb.pt/,2486
+381,http://www.tos.ipb.pt/,20050531171415,Tomba,http://www.tos.ipb.pt/,2487
+382,http://www.tos.ipb.pt/,20050416045808,Tomba,http://www.tos.ipb.pt/,2487
+383,http://www.tos.ipb.pt:80/,20050403191719,IA,http://www.tos.ipb.pt:80/,2737
+384,http://www.tos.ipb.pt:80/,20050306032915,IA,http://www.tos.ipb.pt:80/,2740
+385,https://www.opensourcelisbon.com/,20231212170443,RAQ2023,https://www.opensourcelisbon.com/,1140
+386,http://opensourcelisbon.com/,20230131181248,AWP43,http://opensourcelisbon.com/,756
+387,http://www.opensourcelisbon.com/,20230131160035,AWP43,http://www.opensourcelisbon.com/,744
+388,https://www.opensourcelisbon.com/,20230131160011,AWP43,https://www.opensourcelisbon.com/,911
+389,http://www.opensourcelisbon.com/,20220812120227,AWP41,http://www.opensourcelisbon.com/,718
+390,https://www.opensourcelisbon.com/,20220812120218,AWP41,https://www.opensourcelisbon.com/,906
+391,http://opensourcelisbon.com/,20220501134554,AWP40,http://opensourcelisbon.com/,734
+392,http://www.opensourcelisbon.com/,20220501124236,AWP40,http://www.opensourcelisbon.com/,824
+393,https://www.opensourcelisbon.com/,20220501124223,AWP40,https://www.opensourcelisbon.com/,889
+394,http://opensourcelisbon.com/,20220420160254,AWP40,http://opensourcelisbon.com/,723
+395,http://www.opensourcelisbon.com/,20220201062458,AWP39,http://www.opensourcelisbon.com/,827
+396,https://www.opensourcelisbon.com/,20220201062444,AWP39,https://www.opensourcelisbon.com/,890
+397,http://opensourcelisbon.com/,20220131204757,AWP39,http://opensourcelisbon.com/,703
+398,https://www.opensourcelisbon.com/,20220127184225,AWP39,https://www.opensourcelisbon.com/,892
+399,http://opensourcelisbon.com/,20220122110928,AWP39,http://opensourcelisbon.com/,705
+400,https://www.opensourcelisbon.com/,20211018033613,AWP38,https://www.opensourcelisbon.com/,151485
+401,http://www.opensourcelisbon.com/,20210625145750,AWP37,http://www.opensourcelisbon.com/,862
+402,https://www.opensourcelisbon.com/,20210610081321,AWP37,https://www.opensourcelisbon.com/,87035
+403,https://www.opensourcelisbon.com/,20210603053007,FAWP45,https://www.opensourcelisbon.com/,86732
+404,https://www.opensourcelisbon.com/,20210602050918,FAWP45,https://www.opensourcelisbon.com/,86247
+405,https://www.opensourcelisbon.com/,20210531035306,FAWP45,https://www.opensourcelisbon.com/,86534
+406,https://www.opensourcelisbon.com/,20210530010620,FAWP45,https://www.opensourcelisbon.com/,86541
+407,https://www.opensourcelisbon.com/,20210528233033,FAWP45,https://www.opensourcelisbon.com/,86568
+408,https://www.opensourcelisbon.com/,20210528004127,FAWP45,https://www.opensourcelisbon.com/,86518
+409,https://www.opensourcelisbon.com/,20210527001632,FAWP45,https://www.opensourcelisbon.com/,92431
+410,http://transparencia-pt.org/,20110630225830,AWP11,Transparência na AP,3107
+411,http://transparencia-pt.org/,20110520232606,AWP10,Transparência na AP,3105
+412,http://transparencia-pt.org/,20110121061306,AWP9,Transparência na AP,3108
+413,http://transparencia-pt.org/,20100804013404,AWP8,Transparência na AP,3107
+414,http://www.transparencia-pt.org/,20100529172416,AWP7,302 Found,343
+415,http://transparencia-pt.org/,20100528160544,AWP7,Transparência na AP,3106
+416,http://www.transparencia-pt.org/,20091223052614,AWP6,302 Found,343
+417,http://transparencia-pt.org/,20091218220523,AWP6,Transparência na AP,3103
+418,http://www.transparencia-pt.org/,20091014012529,AWP5,302 Found,342
+419,http://transparencia-pt.org/,20090929194528,AWP5,Transparência na AP,3104
+420,http://transparencia-pt.org/,20090914005017,InternetMemory,http://transparencia-pt.org/,905
+421,http://transparencia-pt.org/,20090630114627,AWP4,Transparência na AP,3098
+422,http://www.descobre.com/,20230123122034,AWP43,http://www.descobre.com/,3592
+423,http://www.descobre.com/,20221014182623,AWP42,http://www.descobre.com/,3593
+424,http://www.descobre.com/,20220814234225,AWP41,http://www.descobre.com/,3594
+425,http://www.descobre.com/,20220203105518,AWP39,http://www.descobre.com/,3602
+426,http://www.descobre.com/,20211018134129,AWP38,http://www.descobre.com/,744
+427,http://www.descobre.com/,20210610125401,AWP37,http://www.descobre.com/,3621
+428,http://www.descobre.com/,20210308194902,AWP36,http://www.descobre.com/,3617
+429,http://www.descobre.com/,20210112170300,EAWP36,http://www.descobre.com/,758
+430,http://www.descobre.com/,20201210154725,AWP35,http://www.descobre.com/,3617
+431,http://www.descobre.com/,20200909061847,AWP34,http://www.descobre.com/,2605
+432,http://www.descobre.com/,20200602003823,AWP33,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1473
+433,http://www.descobre.com/,20200312204933,AWP32,http://www.descobre.com/,2606
+434,http://www.descobre.com/,20200207005151,EAWP30,http://www.descobre.com/,1422
+435,http://www.descobre.com/,20200111235252,AWP31,http://www.descobre.com/,3617
+436,http://www.descobre.com/,20190920062231,AWP30,http://www.descobre.com/,1421
+437,http://www.descobre.com/,20190913025817,AWP30,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1422
+438,http://www.descobre.com/,20190319142053,AWP29,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1408
+439,http://www.descobre.com/,20181110220448,AWP28,http://www.descobre.com/,1414
+440,http://www.descobre.com/,20181027214304,AWP28,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1412
+441,http://www.descobre.com/,20181019095409,AWP28,http://www.descobre.com/,1410
+442,http://www.descobre.com/,20180712034956,AWP27,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1410
+443,http://www.descobre.com/,20180406131910,AWP26,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1254
+444,http://www.descobre.com/,20170209150249,AWP23,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1220
+445,http://www.descobre.com/,20160204142620,AWP20,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1219
+446,http://www.descobre.com/,20150408103555,AWP17,"Portal Descobre para Portugal, Brasil, Angola e outros PALOP",1219
+447,http://www.caca.com.pt/,20090622202643,AWP4,302 Found,450
+448,http://caca.com.pt/,20090520170728,AWP4,Clube de Amigos do Código Aberto |,3017
+449,http://www.caca.com.pt/,20081021155644,AWP3,Clube de Amigos do Código Aberto |,3017
+450,http://caca.com.pt/,20081021103655,AWP3,Clube de Amigos do Código Aberto |,3013
+451,http://www.caca.com.pt/,20080312011505,AWP2,Clube de Amigos do Código Aberto |,3015
+452,http://caca.com.pt/,20080311164459,AWP2,Clube de Amigos do Código Aberto |,3015
+453,http://caca.com.pt/,20080212122925,AWP1,Clube de Amigos do Código Aberto |,3004
+454,http://caca.com.pt:80/,20070220225322,IA,http://caca.com.pt:80/,3230
+455,http://caca.com.pt:80/,20070106032246,IA,http://caca.com.pt:80/,2707
+456,http://opensource.blogs.ca.ua.pt/,20100601032950,AWP7,,266
+457,http://opensource.blogs.ca.ua.pt/,20091217204332,AWP6,,266
+458,http://opensource.blogs.ca.ua.pt/,20090925005720,AWP5,,265
+459,http://opensource.blogs.ca.ua.pt/,20090523081127,AWP4,,266
+460,http://opensource.blogs.ca.ua.pt/,20081027095447,AWP3,Open Source em Educação,11401
+461,http://opensource.blogs.ca.ua.pt/,20080311204344,AWP2,Open Source em Educação,11516
+462,http://opensource.blogs.ca.ua.pt/,20080224112115,AWP1,Open Source em Educação,11513
+463,http://opensource.blogs.ca.ua.pt:80/,20080127043024,IA,http://opensource.blogs.ca.ua.pt:80/,11518
+464,http://opensource.blogs.ca.ua.pt:80/,20071120081030,IA,http://opensource.blogs.ca.ua.pt:80/,6970
+465,https://ansol.org/,20230218201645,EAWP42,https://ansol.org/,4272
+466,http://ansol.org/,20230215175220,EAWP42,http://ansol.org/,416
+467,https://www.ansol.org/,20230131134448,AWP43,https://www.ansol.org/,4291
+468,http://www.ansol.org/,20230131134423,AWP43,http://www.ansol.org/,420
+469,https://ansol.org/,20230118171939,AWP43,https://ansol.org/,4312
+470,http://ansol.org/,20230118171931,AWP43,http://ansol.org/,415
+471,https://ansol.org/,20221221014654,FAWP51,https://ansol.org/,4168
+472,https://ansol.org/,20221206012954,FAWP51,https://ansol.org/,4157
+473,https://ansol.org/,20221114013227,FAWP51,https://ansol.org/,4146
+474,https://ansol.org/,20221102011740,FAWP51,https://ansol.org/,4177
+475,https://ansol.org/,20221027001520,FAWP51,https://ansol.org/,4200
+476,https://www.ansol.org/,20221024150950,AWP42,https://www.ansol.org/,4095
+477,https://ansol.org/,20221010203445,FAWP51,https://ansol.org/,4197
+478,https://ansol.org/,20221008193148,FAWP51,https://ansol.org/,4108
+479,https://ansol.org/,20221007215157,AWP42,https://ansol.org/,4055
+480,https://ansol.org/,20221006192946,FAWP51,https://ansol.org/,4062
+481,https://www.ansol.org/,20220812111045,AWP41,https://www.ansol.org/,4045
+482,https://ansol.org/,20220727222914,AWP41,https://ansol.org/,4055
+483,https://www.ansol.org/,20220501115604,AWP40,https://www.ansol.org/,3997
+484,http://www.ansol.org/,20220501115537,AWP40,http://www.ansol.org/,408
+485,http://www.ansol.org/,20220424044247,AWP40,http://www.ansol.org/,411
+486,https://ansol.org/,20220422073727,AWP40,https://ansol.org/,3994
+487,https://ansol.org/,20220411222343,AWP40,https://ansol.org/,4130
+488,http://ansol.org/,20220411222330,AWP40,http://ansol.org/,402
+489,http://ansol.org/,20220411141049,AWP40,http://ansol.org/,402
+490,https://linux.pt/,20230121003343,AWP43,https://linux.pt/,5042
+491,http://linux.pt/,20230121003333,AWP43,http://linux.pt/,696
+492,http://linux.pt/,20210117055341,EAWP36,http://linux.pt/,525
+493,http://linux.pt/,20201229141927,AWP35,http://linux.pt/,527
+494,http://linux.pt/,20200622211716,AWP33,http://linux.pt/,529
+495,http://linux.pt/,20200325141157,AWP32,http://linux.pt/,417
+496,http://linux.pt/,20200307030149,AWP32,http://linux.pt/,416
+497,http://linux.pt/,20191212174428,AWP31,http://linux.pt/,418
+498,http://linux.pt/,20191206210359,AWP31,http://linux.pt/,419
+499,http://linux.pt/,20190905090805,AWP30,http://linux.pt/,1747
+500,http://linux.pt/,20190902073537,AWP30,http://linux.pt/,1745
+501,http://linux.pt/,20190830235644,AWP30,http://linux.pt/,1745
+502,http://linux.pt/,20190321010553,AWP29,http://linux.pt/,1803
+503,http://www.linux.pt/,20181116154501,AWP28,http://www.linux.pt/,1802
+504,http://linux.pt/,20181024185945,AWP28,http://linux.pt/,426
+505,http://linux.pt/,20181017064055,AWP28,http://linux.pt/,426
+506,http://linux.pt/,20181012172834,AWP28,http://linux.pt/,427
+507,http://linux.pt/,20170803133037,AWP24,301 Moved Permanently,295
+508,http://linux.pt/,20170613001043,EAWP15,301 Moved Permanently,294
+509,http://www.linux.pt/,20170222061601,AWP23,301 Moved Permanently,298
+510,http://www.linux.pt/,20160612163227,AWP21,301 Moved Permanently,298
+511,http://linux.pt/,20160602212515,AWP21,301 Moved Permanently,295
+512,http://www.linux.pt/,20150512141302,AWP17,LINUX.PT - HOME,3437
+513,http://linux.pt/,20150417074114,AWP17,LINUX.PT - HOME,3438
+514,http://www.linux.pt/,20120122171702,AWP12,LINUX.PT - HOME,3433
+515,https://www.esop.pt/,20231215192425,RAQ2023,https://www.esop.pt/,892
+516,https://www.esop.pt/,20231215192424,RAQ2023,https://www.esop.pt/,877
+517,https://www.esop.pt/,20231214115234,RAQ2023,https://www.esop.pt/,891
+518,http://www.esop.pt/,20231214115234,RAQ2023,http://www.esop.pt/,593
+519,https://www.esop.pt/,20231214115233,RAQ2023,https://www.esop.pt/,876
+520,https://www.esop.pt/,20231214115231,RAQ2023,https://www.esop.pt/,909
+521,https://www.esop.pt/,20231213084535,RAQ2023,https://www.esop.pt/,886
+522,http://www.esop.pt/,20231213084535,RAQ2023,http://www.esop.pt/,611
+523,https://www.esop.pt/,20231213084534,RAQ2023,https://www.esop.pt/,12406
+524,https://www.esop.pt/,20231213084533,RAQ2023,https://www.esop.pt/,12818
+525,http://www.esop.pt/,20230125143924,AWP43,http://www.esop.pt/,500
+526,https://www.esop.pt/,20230125143818,AWP43,https://www.esop.pt/,12475
+527,https://esop.pt/,20230120030249,AWP43,https://esop.pt/,12489
+528,http://esop.pt/,20230120030237,AWP43,http://esop.pt/,496
+529,https://www.esop.pt/,20221027185253,FAWP51,https://www.esop.pt/,12696
+530,https://www.esop.pt/,20221026185855,FAWP51,https://www.esop.pt/,12699
+531,https://www.esop.pt/,20221025190641,FAWP51,https://www.esop.pt/,12686
+532,https://www.esop.pt/,20221024185811,FAWP51,https://www.esop.pt/,12683
+533,https://esop.pt/,20221023205252,FAWP51,https://esop.pt/,12529
+534,https://www.esop.pt/,20221023190326,FAWP51,https://www.esop.pt/,12540
+535,https://esop.pt/,20221022212257,FAWP51,https://esop.pt/,12537
+536,https://www.esop.pt/,20221022185140,FAWP51,https://www.esop.pt/,12543
+537,https://esop.pt/,20221021210639,FAWP51,https://esop.pt/,12532
+538,https://www.esop.pt/,20221021191227,FAWP51,https://www.esop.pt/,12524
+539,https://esop.pt/,20221020204940,FAWP51,https://esop.pt/,12538
+540,http://softwarelivre.sapo.pt/,20150910151457,AWP18,http://softwarelivre.sapo.pt/,203
+541,http://softwarelivre.sapo.pt/,20150421130718,AWP17,http://softwarelivre.sapo.pt/,207
+542,http://softwarelivre.sapo.pt/,20141001104826,AWP16,,206
+543,http://softwarelivre.sapo.pt/,20120121145133,AWP12,http://softwarelivre.sapo.pt/,201
+544,http://softwarelivre.sapo.pt/,20110520194050,AWP10,SAPO Software Livre,3504
+545,http://softwarelivre.sapo.pt/,20110121103443,AWP9,SAPO Software Livre,3503
+546,http://softwarelivre.sapo.pt/,20100805002034,AWP8,SAPO Software Livre,3507
+547,http://softwarelivre.sapo.pt/,20100602025234,AWP7,SAPO Software Livre,3514
+548,http://softwarelivre.sapo.pt/,20091217220101,AWP6,SAPO Software Livre,3511
+549,http://softwarelivre.sapo.pt/,20090925032109,AWP5,SAPO Software Livre,3512
+550,http://softwarelivre.sapo.pt/,20090524155043,AWP4,SAPO Software Livre,3510
+551,http://softwarelivre.sapo.pt/,20081022062511,AWP3,SAPO Software Livre – Trac,3807
+552,http://softwarelivre.sapo.pt/,20080314191320,AWP2,http://softwarelivre.sapo.pt/,195
+553,http://softwarelivre.sapo.pt:80/,20080213005956,IA,http://softwarelivre.sapo.pt:80/,198
+554,http://softwarelivre.sapo.pt:80/,20071213133748,IA,http://softwarelivre.sapo.pt:80/,199
+555,http://softwarelivre.sapo.pt:80/,20071011023927,IA,http://softwarelivre.sapo.pt:80/,200
+556,http://softwarelivre.sapo.pt:80/,20071010013258,IA,http://softwarelivre.sapo.pt:80/,201
+557,http://softwarelivre.sapo.pt:80/,20071008124327,IA,http://softwarelivre.sapo.pt:80/,200
+558,http://softwarelivre.sapo.pt:80/,20071007082122,IA,http://softwarelivre.sapo.pt:80/,201
+559,http://softwarelivre.sapo.pt:80/,20071006042201,IA,http://softwarelivre.sapo.pt:80/,200
+560,http://softwarelivre.sapo.pt:80/,20071005005138,IA,http://softwarelivre.sapo.pt:80/,200
+561,http://softwarelivre.sapo.pt:80/,20071002235533,IA,http://softwarelivre.sapo.pt:80/,199
+562,http://softwarelivre.sapo.pt:80/,20071001103217,IA,http://softwarelivre.sapo.pt:80/,200
+563,http://softwarelivre.sapo.pt:80/,20070929194032,IA,http://softwarelivre.sapo.pt:80/,200
+564,http://softwarelivre.sapo.pt:80/,20070808231556,IA,http://softwarelivre.sapo.pt:80/,214
+565,http://www.revista-linux.com/,20220820130958,AWP41,http://www.revista-linux.com/,388
+566,https://revista-linux.com/,20220530005330,AWP40,https://revista-linux.com/,5661
+567,http://www.revista-linux.com/,20220511073417,AWP40,http://www.revista-linux.com/,387
+568,http://www.revista-linux.com/,20220208224753,AWP39,http://www.revista-linux.com/,385
+569,https://revista-linux.com/,20210324174635,AWP36,https://revista-linux.com/,5662
+570,http://www.revista-linux.com/,20210311115402,AWP36,http://www.revista-linux.com/,385
+571,https://revista-linux.com/,20210115160045,EAWP36,https://revista-linux.com/,5664
+572,http://www.revista-linux.com/,20210113173459,EAWP36,http://www.revista-linux.com/,385
+573,http://www.revista-linux.com/,20200912030323,AWP34,http://www.revista-linux.com/,384
+574,https://revista-linux.com/,20200626072659,AWP33,Revista Linux - Tutoriais E Comandos Linux,5692
+575,http://www.revista-linux.com/,20200615002149,AWP33,http://www.revista-linux.com/,386
+576,https://revista-linux.com/,20200325192914,AWP32,Revista Linux - Tutoriais E Comandos Linux,5693
+577,http://www.revista-linux.com/,20200315121544,AWP32,http://www.revista-linux.com/,386
+578,https://revista-linux.com/,20191006032007,AWP30,https://revista-linux.com/,5690
+579,http://www.revista-linux.com/,20190413051829,AWP29,http://www.revista-linux.com/,384
+580,http://revista-linux.com/,20190324192028,AWP29,Revista Linux - Tutoriais E Comandos Linux,5717
+581,https://revista-linux.com/,20190324191935,AWP29,Revista Linux - Tutoriais E Comandos Linux,5715
+582,http://www.revista-linux.com/,20190320080910,AWP29,http://www.revista-linux.com/,385
+583,http://revista-linux.com/,20180717053330,AWP27,Revista Linux - Tutoriais E Comandos Linux,5711
+584,https://revista-linux.com/,20180717053240,AWP27,Revista Linux - Tutoriais E Comandos Linux,5697
+585,http://www.revista-linux.com/,20180712152257,AWP27,http://www.revista-linux.com/,386
+586,http://www.revista-linux.com/,20180416181953,AWP26,http://www.revista-linux.com/,216
+587,https://revista-linux.com/,20180416173424,AWP26,Revista Linux - Tutoriais E Comandos Linux,5543
+588,http://www.revista-linux.com/,20131107071633,AWP15,Revista Linux :: A Verdadeira Revista Portuguesa de Linux,2257
+589,http://www.revista-linux.com/,20120123055232,AWP12,Revista Linux :: A Verdadeira Revista Portuguesa de Linux,2256
+590,http://www.revista-programar.info/,20230203090456,AWP43,http://www.revista-programar.info/,469
+591,https://www.revista-programar.info/,20230203090144,AWP43,https://www.revista-programar.info/,11364
+592,https://www.revista-programar.info/,20230203090132,AWP43,https://www.revista-programar.info/,11366
+593,http://revista-programar.info/,20230122054434,AWP43,http://revista-programar.info/,439
+594,https://www.revista-programar.info/,20221014042234,AWP42,https://www.revista-programar.info/,11569
+595,https://www.revista-programar.info/,20220802052812,AWP41,https://www.revista-programar.info/,11925
+596,https://www.revista-programar.info/,20220422144539,AWP40,https://www.revista-programar.info/,11904
+597,https://www.revista-programar.info/,20220422144529,AWP40,https://www.revista-programar.info/,11898
+598,http://www.revista-programar.info/,20220422144507,AWP40,http://www.revista-programar.info/,721
+599,http://www.revista-programar.info/,20220418172552,AWP40,http://www.revista-programar.info/,721
+600,https://www.revista-programar.info/,20220418172431,AWP40,https://www.revista-programar.info/,11899
+601,https://www.revista-programar.info/,20220418172427,AWP40,https://www.revista-programar.info/,11905
+602,https://www.revista-programar.info/,20220418172410,AWP40,https://www.revista-programar.info/,11895
+603,https://revista-programar.info/,20220415005457,AWP40,https://revista-programar.info/,804
+604,http://revista-programar.info/,20220415005453,AWP40,http://revista-programar.info/,706
+605,https://revista-programar.info/,20220415005444,AWP40,https://revista-programar.info/,803
+606,http://www.revista-programar.info/,20220202110303,AWP39,http://www.revista-programar.info/,714
+607,https://www.revista-programar.info/,20220202110151,AWP39,https://www.revista-programar.info/,13129
+608,http://www.revista-programar.info/,20220125180814,AWP39,http://www.revista-programar.info/,717
+609,https://www.revista-programar.info/,20220125180655,AWP39,https://www.revista-programar.info/,11914
+610,https://revista-programar.info/,20220122221211,AWP39,https://revista-programar.info/,799
+611,http://revista-programar.info/,20220122221204,AWP39,http://revista-programar.info/,704
+612,https://www.revista-programar.info/,20211010213244,AWP38,https://www.revista-programar.info/,11918
+613,https://www.revista-programar.info/,20211008200946,AWP38,https://www.revista-programar.info/,11914
+614,http://www.revista-programar.info/,20210610031359,AWP37,http://www.revista-programar.info/,720
