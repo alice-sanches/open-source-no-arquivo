@@ -6,12 +6,10 @@ selected_urls = []
 query_strings = []
 
 with open ('D:\Projetos\Programming\open-source-no-arquivo\Selected URLs\selected_urls.csv', newline='') as csvfile:
-    i = 0
-    reader = csv.reader(csvfile, delimiter=',', quotechar='|')
+    reader = csv.reader(csvfile, delimiter=' ', quotechar='|')
     for row in reader:
             selected_urls.append(row[0])
 
-print(selected_urls)
 
 def make_queries():
     for url in selected_urls:
@@ -19,10 +17,13 @@ def make_queries():
     return query_strings
 
 make_queries()
-print(query_strings)
 
-with open('selected_urls_metadata.json', 'w') as f:
+with open('D:\Projetos\Programming\open-source-no-arquivo\Selected URLs\selected_urls_metadata.json', 'w') as f:
     for query in query_strings:
+        print(query)
         response = requests.get(query)
+        print(response)
         json.dump(response.json(), f)
         f.write('\n')
+
+print("URLs successfully written to json document")
